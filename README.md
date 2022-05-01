@@ -1,5 +1,4 @@
-# Hong-Kong-Housing-Transactions-Data-Visualization
-2019 Hong Kong Real Estate Transactions Data Analysis and Visualizatations
+# 2019 Hong Kong Real Estate Transactions Data Analysis and Visualizatations
 ![alt text](https://kostya.io/static/img/portfolio/hong-kong-transaction-data-visualization-full.jpg)
 Hong Kong is known as the most expensive real estate market in the World. According to the Urban Reform Institute and Frontier Centre for Public Policy, Hong Kong has remained the world's least affordable housing marker for over 11 years.
 
